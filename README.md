@@ -4,9 +4,23 @@
 
 # Description
 
+This project focuses on understanding **networking fundamentals** through the NetPractice training interface.
+
+Each level requires configuring a virtual network correctly so that all hosts can communicate as expected.
+
+---
 # Instructions
 
+1. Open `index.html` with web browsrer (doesn't work with Firefox).
+2. Complete each level by configuring IP addresses, subnet masks and routing elements correctly.
+3. Once a level is completed, **export the configuration** using the interface export option.
+4. You must export **10 configuration files**, one for each level.
+5. All exported files must be placed **at the root of the Git repository**.
+
+---
 # Resources
+
+This section lists references used to study the networking concepts required for NetPractice.
 
 ## TCP/IP addressing
 
@@ -94,3 +108,14 @@ Divides network communication into 7 abstract layers.
 | Layer 1  | Physical       | Physical transmission of raw bits |
 
 https://www.ibm.com/think/topics/osi-model
+
+---
+
+# Use of AI
+
+AI tools were used as a **learning aid** to:
+- Rephrase and clarify theorical explanation
+- Improve the structure and formatting of this README
+- Validate understanding of networking concepts
+
+All configuration work and problem solving were performed manually by the author.
